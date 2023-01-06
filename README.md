@@ -1,0 +1,4 @@
+```
+cd foo
+cargo bitbake
+```

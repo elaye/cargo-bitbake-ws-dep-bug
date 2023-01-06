@@ -5,4 +5,4 @@ members = [
 ]
 
 [workspace.dependencies]
-nfkldsnk432432 = { git = "https://github.com/elaye/nfkldsnk432432 ", branch = "main", version = "0.1.0" }
+nfkldsnk432432 = { git = "https://github.com/elaye/cargo-bitbake-ws-dep-bug ", branch = "main", version = "0.1.0" }
