@@ -1,0 +1,11 @@
+[package]
+name = "foo"
+version = "0.1.0"
+edition = "2021"
+description = "Foo"
+homepage = "foo.bar"
+license = ""
+
+[dependencies]
+nfkldsnk432432 = { workspace = true }
+# nfkldsnk432432 = { git = "https://github.com/elaye/nfkldsnk432432 ", branch = "main", version = "0.1.0" }
